@@ -1,18 +1,18 @@
-## Hello, I'm Leonel Saenz IV!
-**Aspiring Bioinformatician | Undergraduate at the University of Texas at Austin**
-
-*Expected Graduation May 2030*
+# Hello, I'm Leonel Saenz IV!
+**Aspiring Bioinformatician | Undergraduate in the class of 2030 at the University of Texas at Austin**
 
 I am majoring in Biochemistry with a minor in Statistics and Data Science, hoping to hone and utilize my coding skills to create helpful biological programs that solve real world problems.
 
 ---
-### Skills
+## Skills
 * **Languages:** Python, Java, R
 ---
-### Projects
-* **n/a**
+## Projects
+### Bioinformatics Tools [https://github.com/pokeleomon/Bioinformatics-Tools]
+collection of different python programs meant to simplify data collection and computation of biological processes
+* **Features:** Nucleotide base counter
 ---
-### Contact
+## Contact
 * **Linked In:** https://www.linkedin.com/in/leonel-saenz-iv-6332ab404/
 * **Email:** leosaenziv@gmail.com
 
