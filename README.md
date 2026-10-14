@@ -11,7 +11,7 @@ I am majoring in Biochemistry with a minor in Statistics and Data Science, hopin
 ### Bioinformatics Tools [https://github.com/pokeleomon/Bioinformatics-Tools]
 collection of different python programs meant to simplify data collection and computation of biological processes
 * **Features:** Nucleotide base counter
-### Website Skills Toolkit [https://github.com/pokeleomon/webpage-design-toolkit]
+### Webpage Design Toolkit [https://github.com/pokeleomon/webpage-design-toolkit]
 A toolkit that can take the bland generic designs made by default, and transform it into a beautiful user interface that displays your creative vision through rigorous testing and design philosophies
 * **Features:** Programmable skills that can be utilized in any chatbot to enhance their web design philosophies. 
 ---
