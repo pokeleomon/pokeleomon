@@ -5,7 +5,7 @@ I am majoring in Biochemistry with a minor in Statistics and Data Science, hopin
 
 ---
 ## Skills
-* **Languages:** Python, Java, R, Javascript
+* **Languages:** Python, Java, R, Javascript, Agentic Development
 ---
 ## Projects
 ### Bioinformatics Tools [https://github.com/pokeleomon/Bioinformatics-Tools]
