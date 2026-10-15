@@ -13,7 +13,10 @@ collection of different python programs meant to simplify data collection and co
 * **Features:** Nucleotide base counter
 ### Webpage Design Toolkit [https://github.com/pokeleomon/webpage-design-toolkit]
 A toolkit that can take the bland generic designs made by default, and transform it into a beautiful user interface that displays your creative vision through rigorous testing and design philosophies
-* **Features:** Programmable skills that can be utilized in any chatbot to enhance their web design philosophies. 
+* **Features:** Programmable skills that can be utilized in any chatbot to enhance their web design philosophies.
+### OpenCode Model Failover [https://github.com/pokeleomon/opencode-model-failover]
+A plugin directly for OpenCode that allows you to bounce between free models and even switch to an offline agent to continue your work without ever having to worry about usage limits.
+* **Features:** Plugin that natively connects to OpenCode hassle free, installs all necessary components with the help of the user.
 ---
 ## Contact
 * **Linked In:** https://www.linkedin.com/in/leonel-saenz-iv-6332ab404/
