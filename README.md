@@ -5,14 +5,14 @@ I am majoring in Biochemistry with a minor in Statistics and Data Science, hopin
 
 ---
 ## Skills
-* **Languages:** Python, Java, R, Javascript, Agentic Development
+* Python, Java, R, Javascript, Agentic Development
 ---
 ## Projects
 ### Bioinformatics Tools [https://github.com/pokeleomon/Bioinformatics-Tools]
-collection of different python programs meant to simplify data collection and computation of biological processes
-* **Features:** Nucleotide base counter
+collection of different python programs meant to simplify data collection and computation of biological processes.
+* **Features:** Nucleotide base counter.
 ### Webpage Design Toolkit [https://github.com/pokeleomon/webpage-design-toolkit]
-A toolkit that can take the bland generic designs made by default, and transform it into a beautiful user interface that displays your creative vision through rigorous testing and design philosophies
+A toolkit that can take the bland generic designs made by default, and transform it into a beautiful user interface that displays your creative vision through rigorous testing and design philosophies.
 * **Features:** Programmable skills that can be utilized in any chatbot to enhance their web design philosophies.
 ### OpenCode Model Failover [https://github.com/pokeleomon/opencode-model-failover]
 A plugin directly for OpenCode that allows you to bounce between free models and even switch to an offline agent to continue your work without ever having to worry about usage limits.
